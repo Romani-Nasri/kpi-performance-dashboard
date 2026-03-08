@@ -57,11 +57,7 @@ The dashboard allows decision makers to quickly analyze:
 
 ---
 
-## Dashboard Preview
 
-(Add dashboard screenshot here)
-
----
 
 ## Business Value
 
